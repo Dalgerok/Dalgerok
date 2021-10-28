@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📫 How to reach me: [Telegram](https://www.t.me/dalgerok), orapandrei@gmail.com
-- 🌱 Links to my profiles on competitive programming sites: [Codeforces](https://www.codechef.com/users/dalgerok), [Codechef](https://www.codechef.com/users/dalgerok)
+- 🌱 Links to my profiles on competitive programming sites: [Codeforces](https://codeforces.com/profile/Dalgerok), [Codechef](https://www.codechef.com/users/dalgerok)
 <!--
 **Dalgerok/Dalgerok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
